@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **grazvydaszilius2001@gmail.com**
 
--  My portfolio **grazvydas.me**
+-  My portfolio **http://grazvydas.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
