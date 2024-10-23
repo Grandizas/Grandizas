@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandizas" alt="grandizas" /></a> </p>
 
-- 🔭 I’m currently working on **Summaries website with Nuxt and Portfolio**
+- 🔭 I’m currently working on **Journaling app**
 
 - 🌱 I’m currently learning **React**
 
