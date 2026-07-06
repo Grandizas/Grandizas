@@ -1,4 +1,5 @@
-<img width="2528" height="1696" alt="nanobanana-1783357398039" src="https://github.com/user-attachments/assets/be5748d6-e492-4449-8ba7-10cac72186c9" />
+<img width="2253" height="848" alt="cover" src="https://github.com/user-attachments/assets/e515366d-275f-4116-b42d-f5b26da13fdf" />
+
 
 <h1 align="center">Hi 👋, I'm Gražvydas Žilius</h1>
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
