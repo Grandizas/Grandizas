@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/g3xB1TV/Blue-Modern-Lets-Do-This-Linked-In-Banner.png" alt="Blue-Modern-Lets-Do-This-Linked-In-Banner" border="0">
+<img width="2528" height="1696" alt="nanobanana-1783357398039" src="https://github.com/user-attachments/assets/be5748d6-e492-4449-8ba7-10cac72186c9" />
+
 <h1 align="center">Hi 👋, I'm Gražvydas Žilius</h1>
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
 
