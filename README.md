@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandizas" alt="grandizas" /></a> </p>
 
-- 🔭 I’m currently working on **Pomodorider**
+- 🔭 I’m currently working on **Deep work browser**
 
 - 🌱 I’m currently learning **Nuxt Fullstack**
 
